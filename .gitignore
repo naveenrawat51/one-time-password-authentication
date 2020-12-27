@@ -12,3 +12,5 @@ service_account.json
 # macOS
 .DS_Store
 node_modules
+functions/serviceAccountKey.json
+functions/serviceAccountKey.json
