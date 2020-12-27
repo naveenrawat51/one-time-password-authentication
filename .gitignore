@@ -13,4 +13,4 @@ service_account.json
 .DS_Store
 node_modules
 functions/serviceAccountKey.json
-functions/serviceAccountKey.json
+functions/twilioCreds.js
